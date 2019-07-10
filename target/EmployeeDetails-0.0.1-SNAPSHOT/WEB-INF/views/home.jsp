@@ -13,7 +13,7 @@
 <input type="submit"  value="login">
 </form>
 
-<form action="hello1" method=post >
+<form action="register" method=post >
  
 <input type="submit"  value="register">
 
